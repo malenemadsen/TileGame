@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(27, 26, 26);
+}
+span{
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+}
+h2{
+    text-align: center;
+    font-family: 'Passion One', cursive;
+    color: rgb(184, 184, 184);
+}
