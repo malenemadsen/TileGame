@@ -43,8 +43,8 @@ let moves = 100;                                 //Amount of moves you starts ou
 let oneMove = 1;                                 //The amount of points you are gonna lose pr. move
 
 
-//Jeg ved ikke hvorfor den hedder 11 (i den orginale var det 9)
-let playerPosition = {x:11, y:11};
+
+let playerPosition = {x:0, y:0};
 
 
 function drawMaze(){
